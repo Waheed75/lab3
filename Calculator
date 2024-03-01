@@ -5,6 +5,7 @@ cout<<"My name is"<<"Abdul Waheed";
 cout<<"My rollnumber is"<<23-st-040;
 cout<<"The addition of these two number"<<a+b;
 cout<<"The subtract of these two number"<<a-b;
+cout<<"The multiply  of these two number"<<a*b;
 }
 
 
